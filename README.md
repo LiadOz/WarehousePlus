@@ -1,6 +1,6 @@
 # WarehousePlus
 
-Code in vba to scrape a specific warehouse site for inventory and providing ways to integrate that data into excel table.
+Code in vba to scrape a specific warehouse site for inventory and providing ways to intergrate that data into excel table.
 
 This Code is comprised of 4 parts:
 1. Main Site Navigation, are methods which help going into different menus including logging and opening the site.
